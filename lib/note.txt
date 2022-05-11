@@ -1,0 +1,7 @@
+Download the libraries from the below links.
+
+https://launchpad.net/sikuli/sikulix/2.0.5/+download/sikulixide-2.0.5.jar
+
+https://jar-download.com/artifacts/com.codoid.products/fillo/1.21/source-code
+
+http://www.java2s.com/Code/JarDownload/swt/swt-win64-3.6.2.jar.zip
